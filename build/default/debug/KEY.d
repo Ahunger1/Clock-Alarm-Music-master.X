@@ -1,0 +1,1 @@
+ build/default/debug/KEY.d  build/default/debug/KEY.p1:  KEY.c DS1302.h SONG.h LCD.h LED.h KEY.h DELAY.h

@@ -1,0 +1,1 @@
+ build/default/debug/INT.d  build/default/debug/INT.p1:  INT.c INT.h

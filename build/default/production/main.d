@@ -1,0 +1,1 @@
+ build/default/production/main.d  build/default/production/main.p1:  main.c UART.h DS1302.h SONG.h LCD.h LED.h INT.h KEY.h DELAY.h

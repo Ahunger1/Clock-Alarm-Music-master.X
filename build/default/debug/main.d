@@ -1,0 +1,1 @@
+ build/default/debug/main.d  build/default/debug/main.p1:  main.c UART.h DS1302.h SONG.h LCD.h LED.h INT.h KEY.h DELAY.h

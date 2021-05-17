@@ -1,6 +1,8 @@
-英文路径下运行
- 大三时的课设，需要与Proteus联调
- 见图 
+性质：大三课设
 
-![image](https://user-images.githubusercontent.com/25152036/118533115-3fd8d480-b77a-11eb-89da-90e0a5b4002f.png)
+注意：
 
+1. 在英文路径下运行
+2. 需要与Proteus联调
+
+[![gWByrT.png](https://z3.ax1x.com/2021/05/18/gWByrT.png)](https://imgtu.com/i/gWByrT)
